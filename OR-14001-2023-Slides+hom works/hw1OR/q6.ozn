@@ -1,0 +1,9 @@
+output ["\"output\": {","\"dzn\": ",showJSON(concat(["xA = ",showDzn(xA),";\n","xB = ",showDzn(xB),";\n","xC = ",showDzn(xC),";\n","xD = ",showDzn(xD),";\n","w1 = ",showDzn(w1),";\n","w2 = ",showDzn(w2),";\n","t1 = ",showDzn(t1),";\n","t2 = ",showDzn(t2),";\n"])),"}, \"sections\": [\"dzn\"]"];
+int: t2;
+int: t1;
+int: w2;
+int: w1;
+int: xD;
+int: xC;
+int: xB;
+int: xA;
